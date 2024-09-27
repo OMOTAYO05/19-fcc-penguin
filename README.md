@@ -2,27 +2,37 @@
 
 > This is a fcc project building a penguin built by html and css to learn CSS transforms.
 
-![screenshot](./app_screenshot.png) ![alt text](image.png)
+![19-fc-penguin](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
 - HTML5,
-  -
+  - `div`
 - CSS,
-- technologies used
-
+  - `animation`
+  - `transform`
+  - `margin`
+  - `padding`
+  - `border`
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment link
+[Deployment-Link](https://vercel.com/onikosi-omotayo-eniolas-projects/19-fcc-penguin)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
