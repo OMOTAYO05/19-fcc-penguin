@@ -20,11 +20,13 @@ Additional description of the project and its features.
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
 - Github Action
+
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 ## Deployment link
+
 [Deployment-Link](https://vercel.com/onikosi-omotayo-eniolas-projects/19-fcc-penguin)
 
 ### Development (Running locally)
