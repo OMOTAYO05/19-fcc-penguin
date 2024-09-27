@@ -1,15 +1,16 @@
-# Project Name
+# FCC Penguin
 
-> One paragraph statement about the project.
+> This is a fcc project building a penguin built by html and css to learn CSS transforms.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.png) ![alt text](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
+- HTML5,
+  -
+- CSS,
 - technologies used
 
 ## Live Demo
